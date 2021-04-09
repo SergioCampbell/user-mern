@@ -14,5 +14,12 @@ npm i
 
 the server will run in port 4000 and frontend in port 3000
 
+###Data
+
+Database: MongoDB
+Server: Nodejs
+Front-end: Reactjs
+
+
 
 This app will take some changes in the future.
